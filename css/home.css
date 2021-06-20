@@ -282,25 +282,6 @@ section.intro {
 }
 
 
-/* sm */
-
-@media screen and (max-width: 768px) {
-    section.intro {
-        padding-top: 9rem;
-        overflow: hidden;
-    }
-    .intro .section-title h1 {
-        font-size: 20px !important;
-    }
-    .intro .section-title h4 {
-        font-size: 18px !important;
-    }
-    .intro .section-title h1::after {
-        width: 20px;
-    }
-}
-
-
 /*--------------------------------------------------------------
 # DINING LOCATIONS
 --------------------------------------------------------------*/
@@ -386,18 +367,6 @@ section.food {
 }
 
 
-/* sm */
-
-@media screen and (max-width: 768px) {
-    .food .section-title h1 {
-        font-size: 20px !important;
-    }
-    .food .section-title h4 {
-        font-size: 18px !important;
-    }
-}
-
-
 /*--------------------------------------------------------------
 # STAFF
 --------------------------------------------------------------*/
@@ -452,25 +421,6 @@ section.staff {
     letter-spacing: 1px;
     padding-bottom: 1rem;
     text-align: left !important;
-}
-
-
-/* sm */
-
-@media screen and (max-width: 768px) {
-    section.staff {
-        padding-top: 60px;
-        overflow: hidden;
-    }
-    .staff .section-title h1 {
-        font-size: 20px !important;
-    }
-    .staff .section-title h4 {
-        font-size: 18px !important;
-    }
-    .staff-pic {
-        margin-top: 2rem;
-    }
 }
 
 
