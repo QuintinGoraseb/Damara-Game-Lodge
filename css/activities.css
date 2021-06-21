@@ -348,6 +348,12 @@ section.advert {
     padding-top: 2rem;
 }
 
+@media (max-width: 768px) {
+    .get-started-btn {
+        margin-left: 3rem;
+    }
+}
+
 
 /*--------------------------------------------------------------
 # FOOTER

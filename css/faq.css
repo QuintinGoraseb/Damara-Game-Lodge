@@ -236,19 +236,18 @@ section.faq {
     overflow: hidden;
 }
 
-.get-started-btn1 {
+.card-header .btn-link {
+    font-family: 'Teko', sans-serif;
     color: #fff;
     border-radius: 0;
     padding: 7px 25px 8px 25px;
-    white-space: nowrap;
     transition: 0.3s;
-    font-size: larger;
-    font-weight: 500;
-    font-family: 'Teko', sans-serif;
     text-transform: uppercase;
-    display: inline-block;
-    border: 2px solid #f0a331;
     text-decoration: none;
+    font-weight: 500;
+    display: inline-block;
+    font-size: larger;
+    border: 2px solid #f0a331;
     box-shadow: inset 5px 5px 10px #c58628, inset -5px -5px 10px #ffc03a;
 }
 

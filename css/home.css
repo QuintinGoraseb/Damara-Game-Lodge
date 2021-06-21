@@ -244,7 +244,7 @@ section.intro {
 .intro .section-title h1 {
     font-size: 26px;
     font-weight: 500;
-    padding: 0;
+    padding-bottom: 1rem;
     line-height: 1px;
     margin: 0 0 5px 0;
     letter-spacing: 2px;
@@ -322,7 +322,7 @@ section.food {
 .food .section-title h1 {
     font-size: 26px;
     font-weight: 500;
-    padding: 0;
+    padding-bottom: 1rem;
     line-height: 1px;
     margin: 0 0 5px 0;
     letter-spacing: 2px;
@@ -384,8 +384,8 @@ section.staff {
 .staff .section-title h1 {
     font-size: 26px;
     font-weight: 500;
-    padding: 0;
     line-height: 1px;
+    padding-bottom: 1rem;
     margin: 0 0 5px 0;
     letter-spacing: 2px;
     text-transform: uppercase;
